@@ -1,6 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
 .body{
     color:rgb(216, 174, 35); 
     margin-left: 100px;
     margin-right: 0px;
+
+}
+
+h1{color:rgb(23, 73, 223);
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    margin-left: center;
+    
+
+}
+
+p{
+color:rgb(23, 73, 223);
+font-family: 'Fredoka One', cursive;
+font-size: 30px;
+margin-left: 50px;
+
+}
+
+a{
+font-family: 'Fredoka One', cursive;
+color:rgb(216, 56, 35);
+
+margin-left: 50px;
 
 }
